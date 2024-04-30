@@ -1,0 +1,26 @@
+.courseImage {
+    width: 100%;
+    margin: auto;
+}
+
+.course {
+    border: 2px solid black;
+    transition: 0.5s;
+}
+
+.course:hover {
+    scale: 1.03;
+}
+
+.startCourseButton {
+    font-size: 15px;
+    font-weight: bolder;
+    border-radius: 30px;
+    border: 5px solid #3dce9b;
+    color: #0a0a25;
+    padding: 12px;
+    background: #3dce9b;
+    transition: 1s;
+    margin-bottom: 5%;
+}
+
