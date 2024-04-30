@@ -1,5 +1,6 @@
 .courseImage {
     width: 100%;
+    height: 200px;
     margin: auto;
 }
 
@@ -20,7 +21,13 @@
     color: #0a0a25;
     padding: 12px;
     background: #3dce9b;
-    transition: 1s;
+    transition: 0.5s;
     margin-bottom: 5%;
+}
+
+.startCourseButton:hover {
+    border-color: #0a0a25;
+    color: white;
+    background: #0a0a25;
 }
 
