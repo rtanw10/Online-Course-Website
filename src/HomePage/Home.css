@@ -1,0 +1,47 @@
+body {
+    background: #eeeeee;
+}
+
+.landingTitle {
+    margin-top: 10%;
+    font-size: 45px;
+    color: #0a0a25;
+}
+
+.landingPage {
+    display: flex;
+    margin: 25px;
+    justify-content: center;
+    text-align: center;
+}
+
+.landingDescription {
+    font-size: 20px;
+}
+
+img {
+    width: 50%;
+    text-align: right;
+    margin-left: 10%;
+}
+
+.findCourseButton {
+    font-size: 15px;
+    border-radius: 30px;
+    border: 5px solid #3dce9b;
+    color: #0a0a25;
+    padding: 12px;
+    background: transparent;
+    transition: 1s;
+}
+
+.findCourseButton:hover {
+    scale: 1.05;
+}
+
+.takeCourseDescription {
+    text-align: center;
+    margin-left: 5%;
+}
+
+
